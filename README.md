@@ -4,6 +4,8 @@ Application of the MorphNet Approach on the U-Net
 This is an own PyTorch-based implementation of the MorphNet Approach to apply [MorphNet](https://arxiv.org/abs/1711.06798) on the U-Net.
 The data set used for this study, is the [Inria Aerial Image Labeling](https://project.inria.fr/aerialimagelabeling/).
 
+For detailed explanations please refer to the [Blog Post](https://github.com/markusdiekmann95/Morph-U-Net/blob/main/Morph-U-Net_%20Designing%20faster%20and%20smaller%20Semantic%20Segmentation%20Networks.md).
+
 Notebooks:
 | Notebook                                                 | Description                                                                                  |
 | -------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
