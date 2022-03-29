@@ -307,8 +307,11 @@ My thanks go out to Thorben Hellweg, Moritz Seiler and Professor Dr. Fabian Gies
 ## References
 
 [1] Moyer, B., Why TinyML Is Such A Big Deal (2021). https://semiengineering.com/why-tinyml-is-such-a-big-deal/
+
 [2] Luber, S., Was ist TinyML? (2022). https://www.bigdata-insider.de/was-ist-tinyml-a-1087998/
+
 [3] Arun, An Introduction to TinyML (2020). https://towardsdatascience.com/an-introduction-to-tinyml-4617f314aa79
+
 [4] Lin, J., Chen, W., Lin, Y., Cohn, J., Gan, C., and Han, S. (2020). “MCUNet: Tiny Deep Learning on IoT Devices,” https://arxiv.org/abs/2007.10319
 [5] Ronneberger, O., Fischer, P., Brox, T. (2015). U-Net: Convolutional Networks for Biomedical Image Segmentation
 [6] Gordon, A., Eban, E., Nachum, O., Chen, B., Wu, H., Yang, T.-J., and Choi, E. (2018). “MorphNet: Fast Simple Resource-Constrained Structure Learning of Deep Networks,”. https://arxiv.org/abs/1711.06798
