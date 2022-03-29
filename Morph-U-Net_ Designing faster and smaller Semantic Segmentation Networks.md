@@ -5,6 +5,8 @@
 ###### Seminar:        `Recent Trends in Deep Learning`
 ###### [Github Repository](https://github.com/markusdiekmann95/Morph-U-Net)
 
+##TODO: Adjust the formulas to fit into the github markdown
+
 ## Introduction
 In the field of machine learning and deep learning development, the focus is usually on high-performance solutions to maximize performance **[1]**. However, resources regarding to hardware constraints were disregarded and the focus was mostly on cloud-based solutions, for example. Nevertheless, the models should also be able to run on small, resource-constrained systems like microcontrollers **[2]**. TinyML addresses this bottleneck and aims to run high-performance models on low latency, low power, and low bandwidth devices **[3]**. Specific packages have already been developed for this, such as TensorFlow Light. Alternatively, models can be optimized depending on available resources **[4]**. Resources that can be optimized in this context are for example FLOPs, model size, or latency. 
 
