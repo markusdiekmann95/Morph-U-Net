@@ -313,14 +313,25 @@ My thanks go out to Thorben Hellweg, Moritz Seiler and Professor Dr. Fabian Gies
 [3] Arun, An Introduction to TinyML (2020). https://towardsdatascience.com/an-introduction-to-tinyml-4617f314aa79
 
 [4] Lin, J., Chen, W., Lin, Y., Cohn, J., Gan, C., and Han, S. (2020). “MCUNet: Tiny Deep Learning on IoT Devices,” https://arxiv.org/abs/2007.10319
+
 [5] Ronneberger, O., Fischer, P., Brox, T. (2015). U-Net: Convolutional Networks for Biomedical Image Segmentation
+
 [6] Gordon, A., Eban, E., Nachum, O., Chen, B., Wu, H., Yang, T.-J., and Choi, E. (2018). “MorphNet: Fast Simple Resource-Constrained Structure Learning of Deep Networks,”. https://arxiv.org/abs/1711.06798
+
 [7] Rodriquez, J., MorphNet is a Google Model to Build Faster and Smaller Neural Networks (2021). https://pub.towardsai.net/morphnet-is-a-google-model-to-build-faster-and-smaller-neural-networks-f890276da456
+
 [8] Poon, A., MorphNet: Towards Faster and Smaller Neural Networks (2019). https://ai.googleblog.com/2019/04/morphnet-towards-faster-and-smaller.html
-[9] Emmanuel Maggiori, Yuliya Tarabalka, Guillaume Charpiat and Pierre Alliez. “Can Semantic Labeling Methods Generalize to Any City? The Inria Aerial Image Labeling Benchmark”. IEEE International Geoscience and Remote Sensing Symposium (IGARSS). (2017).
+
+[9] Emmanuel Maggiori, Yuliya Tarabalka, Guillaume Charpiat and Pierre Alliez. “Can Semantic Labeling Methods Generalize to Any City? The Inria Aerial Image Labeling 
+Benchmark”. IEEE International Geoscience and Remote Sensing Symposium (IGARSS). (2017).
+
 [10] Krizhevsky, A., Nair, V., Hinton, G., The CIFAR-10 dataset https://www.cs.toronto.edu/~kriz/cifar.html
+
 [11] Ioffe, S., & Szegedy, C. (2015). Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift.
+
 [12] Nagpal, A., L1 and L2 Regularization Methods (2017).  https://towardsdatascience.com/l1-and-l2-regularization-methods-ce25e7fc831c
+
 [13] Google Research - Github Repository https://github.com/google-research/morph-net
+
 [14] Bühlmann, P., van de Geer, S. (2011). Statistics for High-Dimensional Data, ppp. 55-76
 
